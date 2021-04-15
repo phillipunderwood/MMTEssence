@@ -1,0 +1,32 @@
+Package: MMTEssence
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Author: Phillip Underwood
+Maintainer: <phillip.underwood@essenceglobal.com>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+  zoo, 
+  dtw,
+  MarketMatching,
+  Rcpp,
+  CausalImpact,
+  lubridate,
+  tidyverse,
+  ggplot2,
+  reshape2,
+  plyr,
+  pivottabler,
+  dplyr,
+  utils,
+  base,
+  grDevices,
+  graphics,
+  assertthat,
+  ggplot2,
+  stats
+RoxygenNote: 6.1.1
